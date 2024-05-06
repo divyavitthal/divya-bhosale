@@ -1,2 +1,0 @@
-# divya-bhosale
-hello world
